@@ -39,7 +39,7 @@ def on_button_pressed_b():
         return num
     else:
         num = num-2
-         return num
+        return num
  
  
  
